@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27674686/README.md)
 # 🏥 Partes de Guardia v12
 
 **Sistema digital de partes de guardia hospitalaria** · Ecuador · Para médicos en guardia
